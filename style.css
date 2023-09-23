@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Code Pro', monospace;
+}
+.about > .material-icons-outlined{
+    font-size: 50px;
+}
+.card > img{
+   width: 100%;
+}
+#map { height: 400px; }
+.nav-link:hover{
+    color: white;
+    background-color: rgb(67, 66, 66);
+    padding: 10px;
+}
